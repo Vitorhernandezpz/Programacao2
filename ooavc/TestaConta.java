@@ -3,8 +3,8 @@ package ooavc;
 public class TestaConta {
 
 	public static void main(String[] args) {
-		//Conta c1 = new Conta();
-		Conta c1 = new ContaPoupança();
+		Conta c1 = new Conta();
+		//Conta c1 = new ContaPouoanca
 		
 		c1.numero = 001;
 		c1.nome = "Vitor";

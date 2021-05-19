@@ -1,6 +1,7 @@
 package ooavc;
 
 public class Conta {
+	
 	int numero;
 	String nome;
 	double saldo;
